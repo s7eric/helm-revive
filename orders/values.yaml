@@ -22,7 +22,7 @@ configmap:
     DB_HOST: orders-db
     DB_NAME: orders
 
-replicaCount: 1
+replicaCount: 2
 
 image:
   repository: arsenet10/revive-orders
