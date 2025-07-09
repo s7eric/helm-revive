@@ -24,8 +24,8 @@ image:
   repository: arsenet10/revive-checkout
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "01"
-  tagdb: "db-01"
+  tag: checkout-12
+  tagdb: checkout-db-12
 
 imagePullSecrets: []
 nameOverride: ""
