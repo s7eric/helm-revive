@@ -28,8 +28,8 @@ image:
   repository: arsenet10/revive-orders
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: orders-43
-  tagdb: orders-db-43
+  tag: orders-44
+  tagdb: orders-db-44
 
 imagePullSecrets: []
 nameOverride: ""
