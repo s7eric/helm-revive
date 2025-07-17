@@ -51,8 +51,8 @@ image:
   repositorymq: arsenet10/revive-orders
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: carts-52
-  tagdb: carts-db-52
+  tag: carts-53
+  tagdb: carts-dynamodb-53
   tagmq: "rabbit-mq-01"
 
 imagePullSecrets: []
